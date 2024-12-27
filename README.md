@@ -68,7 +68,13 @@ hobbies: ["Gaming", "Music", "Karate", "Cooking"]
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parvinrao079&layout=compact&theme=tokyonight)
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvinrao079&layout=compact&theme=tokyonight" alt="Top Languages">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=parvinrao079" alt="GitHub Streak" style="margin-right: 50px;>
+  </a>
+</div>
+
 
 ---
 
