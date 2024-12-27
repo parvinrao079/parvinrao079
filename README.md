@@ -2,9 +2,6 @@
   <img src=https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hey%20There%20👀 />
 </p>
 
----
-
-![Snake animation](https://github.com/parvinrao079/parvinrao079/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
