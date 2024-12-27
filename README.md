@@ -2,7 +2,6 @@
   <img src=https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hey%20There%20👀 />
 </p>
 
-
 <h2> 👨🏻‍💻 &nbsp;About Me</h2>
 
 ```yaml
@@ -66,6 +65,12 @@ hobbies: ["Gaming", "Music", "Karate", "Cooking"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="45" height="45" />
 </p>
+
+---
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parvinrao079&layout=compact&theme=tokyonight)
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer"/>
