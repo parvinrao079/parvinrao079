@@ -7,7 +7,7 @@
 ```yaml
 Name: Parvin Rao
 Located In: Deutschland
-Current Job: Software Consultant
+Current Job: Software Consultant / Junior SOC Anaylst
 Goal: Full-Stack Web Developer
 Education:
   [
