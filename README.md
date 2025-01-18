@@ -68,12 +68,11 @@ hobbies: ["Gaming", "Music", "Karate", "Cooking"]
 
 ---
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvinrao079&layout=compact&theme=tokyonight" alt="Top Languages">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=parvinrao079" alt="GitHub Streak" style="margin-right: 50px;>
-  </a>
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvinrao079&layout=compact&theme=tokyonight" alt="Top Languages" style="margin: 10px;">
 </div>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=parvinrao079)](https://git.io/streak-stats)
 
 
 ---
