@@ -8,7 +8,7 @@
 Name: Parvin Rao
 Located In: Deutschland
 Current Job: Software Consultant / Junior SOC Anaylst
-Goal: Full-Stack Web Developer
+Goal: Full-Stack Web Developer / SOC Analyst
 Education:
   [
     "Certified Full-Stack Web Developer by WBS Coding School, Berlin",
